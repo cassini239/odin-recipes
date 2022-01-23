@@ -1,0 +1,20 @@
+img {
+    height: auto;
+    width: 400px;    
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 75px;
+    color: rgb(233, 54, 54);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(241, 79, 79);
+}
+
+.lists {
+    background-color: rgb(164, 228, 240);
+    font-family: Arial, Helvetica, sans-serif;
+}
